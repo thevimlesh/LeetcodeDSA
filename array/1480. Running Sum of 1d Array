@@ -1,0 +1,12 @@
+class Solution {
+public:
+    vector<int> runningSum(vector<int>& nums) {
+        int var=0;
+        vector<int> arr;
+        for(int i=0;i<nums.size();i++){
+          var=var+nums[i];
+          arr.push_back(var);
+        }
+        return arr; // This ensures that the function always returns a value
+    }
+};
