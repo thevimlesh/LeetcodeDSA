@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/LeetcodeDSA/DSA_C++/array",
-      "program": "d:/LeetcodeDSA/DSA_C++/array/build/Debug/outDebug",
+      "cwd": "d:/LeetcodeDSA/DSA_C++/Recursion",
+      "program": "d:/LeetcodeDSA/DSA_C++/Recursion/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
