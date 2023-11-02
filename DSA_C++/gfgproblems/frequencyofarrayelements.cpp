@@ -6,7 +6,7 @@ public:
     // Function to count the frequency of all elements from 1 to N in the array.
     void frequencyCount(vector<int> &arr, int N, int P) {
         vector<int> freq(N, 0);
-
+// made a new array name frequency of N size initialised with 0 n=now when the arr[i] will be at the same index it will be reamin same or increment it 
         for (int i = 0; i < arr.size(); i++) {
             if (arr[i] <= N) {
                 freq[arr[i] - 1]++;
