@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/vimle/LeetcodeDSA/DSA_C++/gfgproblems",
-      "program": "c:/Users/vimle/LeetcodeDSA/DSA_C++/gfgproblems/build/Debug/outDebug",
+      "cwd": "d:/LeetcodeDSA/DSA_C++/gfgproblems",
+      "program": "d:/LeetcodeDSA/DSA_C++/gfgproblems/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
