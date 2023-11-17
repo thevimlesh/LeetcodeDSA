@@ -14,8 +14,7 @@ public:
                if(st.find(temp)==st.end()){
                    ans+=to_string(i);
                    i=k;
-                   st.insert(temp);
-               }
+e               }
            }
            return ans;
        }
